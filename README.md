@@ -10,3 +10,5 @@
 
 * 本书配套的强化学习课程已上线到[伯禹学习平台](https://www.boyuai.com/elites/course/xVqhU42F5IDky94x)，所有人都可以免费学习和讨论。
 
+注：本代码使用python 3.7版本，torch使用1.12.1版本
+
